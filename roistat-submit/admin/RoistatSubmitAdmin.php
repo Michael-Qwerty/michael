@@ -13,7 +13,11 @@ class RoistatSubmitAdmin {
 
 	private function test1() {}
 
-	private function test3() {}
+	private function test37() {}
+
+	private function test67() {}
+
+	private function test8() {}
 
 	private function test2() {}
 
