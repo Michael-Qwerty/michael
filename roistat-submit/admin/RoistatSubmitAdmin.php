@@ -13,9 +13,10 @@ class RoistatSubmitAdmin {
 
 	private function test1() {}
 
-	private function test3() {}
+	private function test37() {}
 
-	private function test6() {}
+	private function test67() {}
+
 
     public function onRoistatSubmit($data) {
         $submission = WPCF7_Submission::get_instance();
