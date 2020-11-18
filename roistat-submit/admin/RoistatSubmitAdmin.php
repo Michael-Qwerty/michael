@@ -13,6 +13,8 @@ class RoistatSubmitAdmin {
 
 	private function test1() {}
 
+	private function test2() {}
+
     public function onRoistatSubmit($data) {
         $submission = WPCF7_Submission::get_instance();
         $emailData = $submission->get_posted_data();
